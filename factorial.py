@@ -43,6 +43,7 @@ while True:
         break
 
 '''
+'''
 
 第三种方法是利用模块math中的阶乘函数factorial
 
@@ -62,3 +63,5 @@ while True:
         sum=factorial(n)
         print("%d的阶乘为%d" %(n,sum))
         break
+
+'''
