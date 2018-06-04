@@ -1,2 +1,3 @@
-# my_python_learning
-some notes about Python learning
+## my_python_learning
+
+> some notes about Python learning
